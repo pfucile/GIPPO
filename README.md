@@ -29,7 +29,7 @@ GIPPO is free to use and open to users contributions. Though, to run it on your 
 ## GIPPO Installation instructions 
 
 ### Grasshopper module
-Save the content of the Grasshopper Design Platform folder on your computer
+Save the content of the Grasshopper Design Platform folder in your computer
 Open the GIPPO_1.0.0.gh file on your Grasshopper environment.
 In case some boxes appear with a warning sign, right click on them --> Update --> select the *.ghcluster file labelled above the box from the Beta_Clusters file.
 

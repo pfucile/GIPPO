@@ -8,6 +8,8 @@ It comprises three main modules:
 
 The entire software has been developed by Maria Kalogeropoulou, Vivek Cherian David, Pierpaolo Fucile as part of the MERLN Institute, with the supervision of Prof. Lorenzo Moroni.
 
+This software is part of the project 3D-MENTOR (with project number 18647) of the VICI research programme, which is financed by the Dutch Research Council (NWO). 
+
 
 ## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

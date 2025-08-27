@@ -6,6 +6,8 @@ It comprises three main modules:
 2) Printing path optimization, developed in MATLAB and deployed as a standalone app with an intuitive and user-friendly GUI. Using a modified version of Prim's algorithm, the trajectories are optimized iteratively to minimize short paths, and thus weak points in the structure
 3) Universal G-code generation. Back in Grasshopper, through a series of python and graphical scripts, different G-codes, compatible with different 3D printing firmwares, can be generated from the same optimized structure. There is full control on process parameters.
 
+The entire software has been developed by Maria Kalogeropoulou, Vivek Cherian David, Pierpaolo Fucile as part of the MERLN Institute, with the supervision of Prof. Lorenzo Moroni.
+
 
 ## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

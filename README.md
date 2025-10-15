@@ -24,7 +24,7 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Disclaimer
-___This code has only been tested for a few 3D printing systems. The code is currently in an experimental state, feel free to use this code for your projects and to contribute back to this project. 
+___This code has been tested on several 3D printing systems but might require customization depending on your printer. The code is currently in an experimental state, feel free to use this code for your projects and to contribute back to this project. 
 
 
 ## System requirements

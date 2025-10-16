@@ -36,6 +36,14 @@ GIPPO is free to use and open to users contributions. Though, to run it on your 
 Save the content of the Grasshopper Design Platform folder in your computer
 Open the GIPPO_1.0.0.gh file on your Grasshopper environment.
 In case some boxes appear with a warning sign, right click on them --> Update --> select the *.ghcluster file labelled above the box from the Beta_Clusters file.
+In the grasshopper script, a step-by-step guide to successfully operate GIPPO is provided.
 
 ### Matlab Standalone app
 Run GIPPO_Matlab_App_Installer.exe installer and follow the instructions. 
+Once the app is installed, launch the *.exe file:
+1) Click on the "Start parallel computing processors" to enable the multi-core processing;
+2) Choose the optimization method (i.e., min-based or max-based);
+3) A browsing window will pop up. Select the folder where the files from the grasshopper script (step 3) were saved;
+4) Wait for the optimization to be over;
+5) The "Save Optimized Path" button will pop up. Name and save the file(s);
+6) Go back to Grasshopper and prepare your gcode!

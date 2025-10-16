@@ -45,5 +45,5 @@ Once the app is installed, launch the *.exe file:
 2) Choose the optimization method (i.e., min-based or max-based);
 3) A browsing window will pop up. Select the folder where the files from the grasshopper script (step 3) were saved;
 4) Wait for the optimization to be over;
-5) The "Save Optimized Path" button will pop up. Name and save the file(s);
+5) The "Save Optimized Path" button will pop up. Name and save the file(s). For multi-layer structures, choose the name, and GIPPO will automatically name each optimized layer (e.g., Structure_Layer_01, Structure_Layer_02, etc.);
 6) Go back to Grasshopper and prepare your gcode!
